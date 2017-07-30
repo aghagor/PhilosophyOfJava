@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27677ce8-2f5f-43e1-9c03-10b96949c845" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter2/Casting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter2/CastingNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter2/RoundingNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter2/StringOperators.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter2/TernaryIfElse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter2/AllOps.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PhilosophyOfJava.iws" />
@@ -72,11 +68,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoundingNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RoundingNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/RoundingNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllOps.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/AllOps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="317" column="26" lean-forward="false" selection-start-line="317" selection-start-column="26" selection-end-line="317" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -151,6 +157,8 @@
         <option value="$PROJECT_DIR$/src/lessons/chapter2/Casting.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter2/CastingNumber.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter2/RoundingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter2/AllOpps.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter2/AllOps.java" />
       </list>
     </option>
   </component>
@@ -930,7 +938,7 @@
       <updated>1500963927908</updated>
       <workItem from="1500963933617" duration="362000" />
       <workItem from="1500964497093" duration="20876000" />
-      <workItem from="1501421375685" duration="7600000" />
+      <workItem from="1501421375685" duration="10333000" />
     </task>
     <task id="LOCAL-00001" summary="create new repository and project for level up lessons">
       <created>1500964066454</created>
@@ -943,7 +951,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28838000" />
+    <option name="totallyTimeSpent" value="31571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -1010,13 +1018,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter1/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1197,6 +1198,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1414,6 +1419,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/AllOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="317" column="26" lean-forward="false" selection-start-line="317" selection-start-column="26" selection-end-line="317" selection-end-column="26" />
           <folding />
         </state>
       </provider>
