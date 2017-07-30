@@ -19,7 +19,8 @@ public class StringTest {
 
     public static void main(String[] args) {
         compare("Hello", "Hello");
-        // Force creation of separate object:
+
+
         String s = new String("Hello");
         compare("Hello", s);
         compare("Hello", "Goodbye");
