@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PhilosophyOfJava.iml" filepath="$PROJECT_DIR$/PhilosophyOfJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/annotations/annotations.iml" filepath="$PROJECT_DIR$/library/annotations/annotations.iml" />
     </modules>
   </component>
 </project>

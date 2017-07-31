@@ -8,5 +8,6 @@ public class CommaOperator {
         for (int i = 1, j = i + 10; i < 10; i++, j = i * 2) {
             System.out.println("i = " + i + " j = " + j);
         }
+
     }
 }
