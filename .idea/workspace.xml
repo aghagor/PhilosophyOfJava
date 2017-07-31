@@ -2,51 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27677ce8-2f5f-43e1-9c03-10b96949c845" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tasks/chapter4/BitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tasks/chapter4/FindeNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter4/IfElse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter4/ListCharacters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tasks/chapter4/OneToHundred.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tasks/chapter4/RandomNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter4/WhileTest.java" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter1\HelloWorld.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter1\ShowProperties.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Assignment.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\AutoInc.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Bool.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\EqualsMethod.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\EqualsMethod2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Equivalence.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Letter.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Literals.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\MathOps.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\PassObject.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Precedence.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\ShortCircuit.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Tank.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Value.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\ATypeName.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\AllTheColorsOfTheRainbow.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\ArgumentsTask.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\Autoboxing.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\DataOnly.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\HelloDate.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\HelloWorld.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\Incrementable.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\IntAndChar.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\StaticTest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\StaticTestTask.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter1\StorageTask.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\Assingnment.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\CarSpeed.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\CarSpeedTest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\Coin.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\FloatDoubleMaxMin.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\LetterPass.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\LetterTask.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\LongTask.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\TankFloat.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TIJ4-code.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter4/CommaOperator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter4/ForEachCharTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter4/ForEachInt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter4/ForEachTest.java" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\AllOps.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\BitManipulation.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Casting.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\CastingNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\Overflow.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\RoundingNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\StringOperators.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\TernaryIfElse.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\lessons\chapter2\URShift.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\BinaryInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\CharToBinary.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\IntShiftOne.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\StringTest.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava\out\production\PhilosophyOfJava\tasks\chapter2\UnsignedRightShift.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/BitTest.class" afterPath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/BitTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tasks/chapter4/BitTest.java" afterPath="$PROJECT_DIR$/src/tasks/chapter4/BitTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PhilosophyOfJava.iws" />
@@ -70,41 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IfElse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/IfElse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WhileTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/WhileTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ListCharacters.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/ListCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OneToHundred.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tasks/chapter4/OneToHundred.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -118,16 +64,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindeNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tasks/chapter4/FindeNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -152,11 +88,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BitTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BitTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tasks/chapter4/BitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53797466">
-              <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommaOperator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/CommaOperator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16620111">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForEachTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/ForEachTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForEachInt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/ForEachInt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForEachCharTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/ForEachCharTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -227,6 +203,10 @@
         <option value="$PROJECT_DIR$/src/tasks/chapter4/RandomNum.java" />
         <option value="$PROJECT_DIR$/src/tasks/chapter4/FindeNumber.java" />
         <option value="$PROJECT_DIR$/src/tasks/chapter4/BitTest.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter4/CommaOperator.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter4/ForEachTest.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter4/ForEachCharTest.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter4/ForEachInt.java" />
       </list>
     </option>
   </component>
@@ -281,15 +261,9 @@
               <option name="myItemId" value="PhilosophyOfJava" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PhilosophyOfJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhilosophyOfJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -299,18 +273,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PhilosophyOfJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -325,50 +287,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhilosophyOfJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhilosophyOfJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lessons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhilosophyOfJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhilosophyOfJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lessons" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -464,88 +382,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BitTest">
-    <configuration default="false" name="OneToHundred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tasks.chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="tasks.chapter4.OneToHundred" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="PhilosophyOfJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="RandomNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tasks.chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="tasks.chapter4.RandomNum" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="PhilosophyOfJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="FindeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tasks.chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="tasks.chapter4.FindeNumber" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="PhilosophyOfJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="BinaryInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tasks.chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="tasks.chapter3.BinaryInteger" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="PhilosophyOfJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HCAV\PhilosophyOfJava\PhilosophyOfJava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ForEachInt">
     <configuration default="false" name="BitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -554,6 +402,86 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="tasks.chapter4.BitTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PhilosophyOfJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CommaOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lessons.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lessons.chapter4.CommaOperator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PhilosophyOfJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ForEachTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lessons.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lessons.chapter4.ForEachTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PhilosophyOfJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ForEachCharTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lessons.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lessons.chapter4.ForEachCharTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PhilosophyOfJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ForEachInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lessons.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lessons.chapter4.ForEachInt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -816,19 +744,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.OneToHundred" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RandomNum" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FindeNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BinaryInteger" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BitTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BitTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CommaOperator" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ForEachTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ForEachCharTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ForEachInt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BitTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BinaryInteger" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FindeNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RandomNum" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OneToHundred" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ForEachInt" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ForEachCharTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ForEachTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CommaOperator" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -844,7 +772,7 @@
       <updated>1500963927908</updated>
       <workItem from="1500963933617" duration="362000" />
       <workItem from="1500964497093" duration="20876000" />
-      <workItem from="1501483304275" duration="4612000" />
+      <workItem from="1501483304275" duration="7542000" />
     </task>
     <task id="LOCAL-00001" summary="create new repository and project for level up lessons">
       <created>1500964066454</created>
@@ -856,11 +784,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25850000" />
+    <option name="totallyTimeSpent" value="28780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -870,10 +798,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32795697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3252688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3252688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -914,55 +842,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.430998">
-          <caret line="352" column="38" selection-start-line="352" selection-start-column="38" selection-end-line="352" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2611465">
-          <caret line="164" column="10" selection-start-line="164" selection-start-column="10" selection-end-line="164" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1698513">
-          <caret line="136" column="21" selection-start-line="136" selection-start-column="21" selection-end-line="136" selection-end-column="21" />
-          <folding>
-            <element signature="e#4714#4715#0" expanded="true" />
-            <element signature="e#5687#5688#0" expanded="true" />
-            <element signature="e#5750#5751#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StrictMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.8280253">
-          <caret line="119" column="34" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.2717624">
-          <caret line="316" column="40" selection-start-line="316" selection-start-column="40" selection-end-line="316" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/ShowProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1072,10 +951,10 @@
         <state vertical-scroll-proportion="0.9022346">
           <caret line="539" column="17" selection-start-line="539" selection-start-column="17" selection-end-line="539" selection-end-column="17" />
           <folding>
-            <element signature="e#22924#22925#0" expanded="true" />
-            <element signature="e#22948#22949#0" expanded="true" />
-            <element signature="e#24380#24381#0" expanded="true" />
-            <element signature="e#24405#24406#0" expanded="true" />
+            <element signature="e#22924#22925#0" expanded="false" />
+            <element signature="e#22948#22949#0" expanded="false" />
+            <element signature="e#24380#24381#0" expanded="false" />
+            <element signature="e#24405#24406#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1337,11 +1216,128 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tasks/chapter4/BitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53797466">
-          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.685654">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/ForEachCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/ForEachTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/ForEachInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/chapter4/CommaOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16620111">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>TIJ4-code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PhilosophyOfJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>TIJ4-code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

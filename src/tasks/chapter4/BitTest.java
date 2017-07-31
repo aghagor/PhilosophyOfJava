@@ -31,23 +31,23 @@ public class BitTest {
         System.out.println("~i = " + Integer.toBinaryString(~i));
         System.out.println("~j = " + Integer.toBinaryString(~j));
         System.out.println("Using binaryPrint():");
-        System.out.println("i = " + i + " = ");
+        System.out.print("i = " + i + " = ");
         binaryPrint(i);
-        System.out.println("j = " + j + " = ");
+        System.out.print("j = " + j + " = ");
         binaryPrint(j);
-        System.out.println("k = " + k + " = ");
+        System.out.print("k = " + k + " = ");
         binaryPrint(k);
-        System.out.println("m = " + m + " = ");
+        System.out.print("m = " + m + " = ");
         binaryPrint(m);
-        System.out.println("i & j = " + (i & j) + " = ");
+        System.out.print("i & j = " + (i & j) + " = ");
         binaryPrint(i & j);
-        System.out.println("i | j = " + (i | j) + " = ");
+        System.out.print("i | j = " + (i | j) + " = ");
         binaryPrint(i | j);
-        System.out.println("i ^ j = " + (i ^ j) + " = ");
+        System.out.print("i ^ j = " + (i ^ j) + " = ");
         binaryPrint(i ^ j);
-        System.out.println("~i = " + ~i + " = ");
+        System.out.print("~i = " + ~i + " = ");
         binaryPrint(~i);
-        System.out.println("~j = " + ~j + " = ");
+        System.out.print("~j = " + ~j + " = ");
         binaryPrint(~j);
     }
 }
