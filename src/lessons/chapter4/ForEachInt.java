@@ -1,22 +1,28 @@
 package lessons.chapter4;
 
 
+import net.mindview.util.Range;
+
+import static net.mindview.util.Print.print;
+import static net.mindview.util.Print.printnb;
+
 /**
  * Created by HCAV on 31.07.2017.
  */
 public class ForEachInt {
     public static void main(String[] args) {
 
-//        for (int i : Range.range(10)) {
-//            print(i + " ");
-//        }
-//        print("\n");
-//        for (int i : Range.range(5, 10)) {
-//            print(i + " ");
-//        }print("\n");
-//        for (int i : Range.range(5, 20, 3)) {
-//            print(i + " ");
-//        }
+        for (int i : Range.range(10)) {
+            printnb(i + " ");
+        }
+        print();
+        for (int i : Range.range(5, 10)) {
+            printnb(i + " ");
+        }
+        print();
+        for (int i : Range.range(5, 20, 3)) {
+            printnb(i + " ");
+        }
 
     }
 }
