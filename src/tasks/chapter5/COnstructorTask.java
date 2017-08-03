@@ -12,9 +12,8 @@ public class COnstructorTask {
     }
 }class ConstructorTaskTest{
     public static void main(String[] args) {
-        COnstructorTask constructorTask = new COnstructorTask();
-        System.out.println(constructorTask);
-        COnstructorTask ct = new COnstructorTask("Hello Java");
-        System.out.println(ct);
+        new COnstructorTask();
+        new COnstructorTask("Hello Java");
+
     }
 }
