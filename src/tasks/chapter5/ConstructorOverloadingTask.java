@@ -14,6 +14,6 @@ public class ConstructorOverloadingTask {
     ConstructorOverloadingTask(String ss) {
         this(51);
         this.s = ss;
-        
+
     }
 }
