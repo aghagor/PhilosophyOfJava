@@ -1,4 +1,4 @@
-package tasks.chapter5;
+package lessons.chapter5;
 
 /**
  * Created by Goro on 10.08.2017.
