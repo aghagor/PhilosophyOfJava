@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27677ce8-2f5f-43e1-9c03-10b96949c845" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter5/ArraysOfPrimitives.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter5/Mug.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter5/ArrayClassObj.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter5/ArrayInit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter5/ArrayNew.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter5/DInamicArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PhilosophyOfJava.iws" />
@@ -26,51 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-              <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebBank.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/WebBank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebBankFinalize.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/WebBankFinalize.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TankTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/TankTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="InitialValues.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/InitialValues.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -145,12 +102,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArraysOfPrimitives.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArraysOfPrimitives.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArraysOfPrimitives.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayNew.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArrayNew.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayClassObj.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArrayClassObj.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayInit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArrayInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DInamicArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/DInamicArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,10 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lessons/chapter2/EqualsMethod.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter2/Value.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter2/Dog.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter2/Bool.java" />
         <option value="$PROJECT_DIR$/src/tasks/chapter2/Coin.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter2/ShortCircuit.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter2/Literals.java" />
@@ -226,6 +226,10 @@
         <option value="$PROJECT_DIR$/src/lessons/chapter5/Cup.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter5/Mug.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter5/ArraysOfPrimitives.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter5/ArrayNew.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter5/ArrayClassObj.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter5/ArrayInit.java" />
+        <option value="$PROJECT_DIR$/src/lessons/chapter5/DInamicArray.java" />
       </list>
     </option>
   </component>
@@ -480,6 +484,32 @@
               <option name="myItemId" value="lessons" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DInamicArray.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhilosophyOfJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhilosophyOfJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -504,15 +534,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArraysOfPrimitives">
-    <configuration default="false" name="OrderOfInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DInamicArray">
+    <configuration default="false" name="ArrayNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="lessons.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.OrderOfInitialization" />
+      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.ArrayNew" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -525,14 +555,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="StaticInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ArrayClassObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="lessons.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.StaticInitialization" />
+      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.ArrayClassObj" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -545,14 +575,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ExplicitStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ArrayInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="lessons.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.ExplicitStatic" />
+      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.ArrayInit" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -565,14 +595,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Mugs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="lessons.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.Mugs" />
+      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.Other" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -585,14 +615,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ArraysOfPrimitives" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="DInamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="lessons.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.ArraysOfPrimitives" />
+      <option name="MAIN_CLASS_NAME" value="lessons.chapter5.DInamicArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -994,19 +1024,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.OrderOfInitialization" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StaticInitialization" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ExplicitStatic" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Mugs" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ArraysOfPrimitives" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ArrayNew" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ArrayClassObj" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ArrayInit" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Other" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DInamicArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArraysOfPrimitives" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Mugs" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ExplicitStatic" />
-        <item index="3" class="java.lang.String" itemvalue="Application.StaticInitialization" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OrderOfInitialization" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DInamicArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Other" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ArrayInit" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArrayClassObj" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ArrayNew" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1049,7 +1079,7 @@
       <workItem from="1501784559594" duration="3637000" />
       <workItem from="1501957227339" duration="5032000" />
       <workItem from="1502280635502" duration="4296000" />
-      <workItem from="1502356917664" duration="905000" />
+      <workItem from="1502356917664" duration="1953000" />
     </task>
     <task id="LOCAL-00001" summary="create new repository and project for level up lessons">
       <created>1500964066454</created>
@@ -1062,7 +1092,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49281000" />
+    <option name="totallyTimeSpent" value="50329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -1129,10 +1159,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/Equivalence.java" />
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/EqualsMethod.java" />
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/Value.java" />
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter2/Dog.java" />
     <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/Bool.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1381,6 +1407,45 @@
         <state relative-caret-position="289">
           <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArrayNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArrayClassObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArrayInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/DInamicArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
