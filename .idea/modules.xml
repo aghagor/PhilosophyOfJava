@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PhilosophyOfJava.iml" filepath="$PROJECT_DIR$/PhilosophyOfJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/annotations/annotations.iml" filepath="$PROJECT_DIR$/library/annotations/annotations.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/library/library.iml" filepath="$USER_HOME$/Desktop/library/library.iml" />
+      <module fileurl="file://C:\Users\Goro\PhilosophyOfJava\library\annotations\annotations.iml" filepath="C:\Users\Goro\PhilosophyOfJava\library\annotations\annotations.iml" />
+      <module fileurl="file://C:\Users\Goro\Desktop\library\library.iml" filepath="C:\Users\Goro\Desktop\library\library.iml" />
     </modules>
   </component>
 </project>

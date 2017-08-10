@@ -8,5 +8,18 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="TIJ4-code1" level="project" />
+    <orderEntry type="library" name="TIJ4-code (2)" level="project" />
+    <orderEntry type="module-library">
+      <library name="TIJ4-code (3)">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/TIJ4-code.jar!/" />
+          <root url="jar://$MODULE_DIR$/TIJ4-code.jar!/io" />
+          <root url="jar://$MODULE_DIR$/TIJ4-code.jar!/io/xfiles" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>

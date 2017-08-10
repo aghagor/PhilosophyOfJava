@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TIJ4-code1">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/TIJ4-code.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/TIJ4-code.jar!/io" />
+      <root url="jar://$USER_HOME$/Downloads/TIJ4-code.jar!/io/xfiles" />
+    </SOURCES>
+  </library>
+</component>
