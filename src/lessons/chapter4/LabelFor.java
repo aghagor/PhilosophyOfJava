@@ -1,6 +1,6 @@
 package lessons.chapter4;
 
-import net.mindview.util.Print;
+import TIJ4Code.net.mindview.util.Print;
 
 /**
  * Created by HCAV on 31.07.2017.

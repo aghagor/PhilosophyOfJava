@@ -1,8 +1,6 @@
 package lessons.chapter5;
 
-import net.mindview.util.Print;
-
-import static net.mindview.util.Print.*;
+import static TIJ4Code.net.mindview.util.Print.print;
 
 /**
  * Created by Goro on 10.08.2017.

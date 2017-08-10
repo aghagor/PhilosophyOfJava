@@ -1,6 +1,6 @@
 package tasks.chapter4;
 
-import static net.mindview.util.Print.print;
+import static TIJ4Code.net.mindview.util.Print.print;
 
 /**
  * Created by HCAV on 31.07.2017.

@@ -1,8 +1,7 @@
 package lessons.chapter5;
 
-import net.mindview.util.Print;
-
-import static net.mindview.util.Print.*;
+import static lessons.chapter6.Print.print;
+import static lessons.chapter6.Print.printnb;
 
 /**
  * Created by Goro on 03.08.2017.

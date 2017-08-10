@@ -1,6 +1,6 @@
 package lessons.chapter4;
 
-import net.mindview.util.Print;
+import TIJ4Code.net.mindview.util.Print;
 
 import java.util.Random;
 
