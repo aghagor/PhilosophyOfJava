@@ -2,13 +2,176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27677ce8-2f5f-43e1-9c03-10b96949c845" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TIJ4-code.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/TIJ4_code1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/TIJ4_code__2_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/chapter5/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/flexCompiler.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/TIJ4_code.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/TIJ4_code1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library__2_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library__3_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library__4_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TIJ4-code.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter2/HelloWorld.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter2/ShowProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/AllOps.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Assignment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/AutoInc.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/BitManipulation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Casting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/CastingNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/EqualsMethod.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/EqualsMethod2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Equivalence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Letter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Literals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/MathOps.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Overflow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/PassObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Precedence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/RoundingNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/ShortCircuit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/StringOperators.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Tank.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/TernaryIfElse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/URShift.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter3/Value.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/BrakAndContinue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/CommaOperator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/ForEachCharTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/ForEachInt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/ForEachTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/IfElse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/IfElse2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/LabelFor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/ListCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/VowelsAndConsonants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter4/WhileTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Apple.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/ArrayClassObj.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/ArrayInit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/ArrayNew.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/ArraysOfPrimitives.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/AutoboxingVarargs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Bowl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Burrito$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Burrito.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Cup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Cupboard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Cups.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/DInamicArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/EnumOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/ExplicitStatic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Flower.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/House.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/InitialValues.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Leaf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Mug.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Mugs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/NewVarArgs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/OptionalTrailingArguments.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/OrderOfInitialization.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Other.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Overloading.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/OverloadingOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/OverloadingVarargs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/OverloadingVarargs2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/PassingThis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Peeler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/PrimitiveOverloading.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Rock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/SimpleCOnstructor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/SimpleEnumUse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Spiciness.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/StaticInitialization.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Table.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/TerminationCondition.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Tree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/VarArgType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/VarArgs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/lessons/chapter5/Window.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/net/mindview/util/Print.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/net/mindview/util/Range.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/ATypeName.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/AllTheColorsOfTheRainbow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/ArgumentsTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/Autoboxing.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/DataOnly.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/HelloDate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/HelloWorld.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/Incrementable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/IntAndChar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/StaticTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/StaticTestTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter2/StorageTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/Assingnment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/BinaryInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/CarSpeed.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/CarSpeedTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/CharToBinary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/Coin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/FloatDoubleMaxMin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/IntShiftOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/LetterPass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/LetterTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/LongTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/StringTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/TankFloat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter3/UnsignedRightShift.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/BitTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/FibonacciTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/FindeNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/IfElseTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/OneToHundred.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/RandomNum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/SwitchCaseTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter4/VampireNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/ArrayTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/COnstructorTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/ConstructorOverloadingTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/ConstructorTaskTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/MainString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/Money.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/StringArgumentTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/StringConstructorTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/StringConstructorTaskTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/StringNull.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/StringTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/Tank.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/TankTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/TerminationConditionEx.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/ThisTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/Wallet$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/Wallet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/WebBank.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/WebBankFinalize.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PhilosophyOfJava/tasks/chapter5/WebBankTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/PhilosophyOfJava.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/Face0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/Face1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/Face2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/Face3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/Face4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/flex/build-command.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/flex/helloflex1.mxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/flex/helloflex2.mxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/flex/songScript.as" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/flex/songStyles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/flex/songs.mxml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/jnlp/filechooser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/jnlp/filechooser.jnlp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/library/gui/jnlp/mindview.gif" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/TIJ4_code__2_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/TIJ4_code__2_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PhilosophyOfJava.iml" afterPath="$PROJECT_DIR$/PhilosophyOfJava.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/library/build.xml" afterPath="$PROJECT_DIR$/out/production/library/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/library/library.iml" afterPath="$PROJECT_DIR$/out/production/library/library.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lessons/chapter5/Test.java" afterPath="$PROJECT_DIR$/src/lessons/chapter5/Test.java" />
     </list>
     <ignored path="PhilosophyOfJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +197,7 @@
         <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,6 +213,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Goro\PhilosophyOfJava\src\library\access</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -61,43 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lessons/chapter2/AllOps.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter2/Overflow.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter2/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Rock.java" />
-        <option value="$PROJECT_DIR$/src/tasks/StringNull.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/StringNull.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/StringTask.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Tree.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Overloading.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/OverloadingOrder.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/PrimitiveOverloading.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/Dog.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/COnstructorTask.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Leaf.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Person.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/ThisTask.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Flower.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/ConstructorOverloadingTask.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Book.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/WebBank.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/WebBankFinalize.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/TankTest.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/InitialValues.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Window.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Bowl.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Cup.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/Mug.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/ArraysOfPrimitives.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/ArrayNew.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/ArrayClassObj.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/ArrayInit.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/DInamicArray.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/ArrayTask.java" />
-        <option value="$PROJECT_DIR$/src/tasks/chapter5/StringConstructorTask.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/VarArgs.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/NewVarArgs.java" />
-        <option value="$PROJECT_DIR$/src/lessons/chapter5/OptionalTrailingArguments.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter5/VarArgType.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter5/AutoboxingVarargs.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter5/OverloadingVarargs.java" />
@@ -111,6 +245,43 @@
         <option value="$PROJECT_DIR$/src/lessons/chapter5/Spiciness.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter5/SimpleEnumUse.java" />
         <option value="$PROJECT_DIR$/src/tasks/chapter5/Money.java" />
+        <option value="$PROJECT_DIR$/src/library/access/Cake.java" />
+        <option value="$PROJECT_DIR$/src/library/access/Pie.java" />
+        <option value="$PROJECT_DIR$/src/library/access/cookie2/Cookie.java" />
+        <option value="$PROJECT_DIR$/src/library/access/ImportedMyClass.java" />
+        <option value="$PROJECT_DIR$/src/library/access/dessert/Cookie.java" />
+        <option value="$PROJECT_DIR$/src/library/access/mypackage/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/library/access/ChocolateChip.java" />
+        <option value="$PROJECT_DIR$/src/library/access/ChocolateChip2.java" />
+        <option value="$PROJECT_DIR$/src/library/access/Dinner.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/concurrency/CarBuilder.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/concurrency/BankTellerSimulation.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/concurrency/HorseRace.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/arrays/IceCream.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/annotations/UseCaseTracker.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/annotations/UseCase.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/annotations/PasswordUtils.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/containers/ListPerformance.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/containers/Test.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/containers/TestParam.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/containers/Tester.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/containers/SetPerformance.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/containers/MapPerformance.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/enumerated/SpaceShip.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/exceptions/CleanupIdiom.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/Apply.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/ClassTypeCapture.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/CovariantArrays.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/DogsAndRobots.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/InstantiateGenericType.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/LimitsOfInference.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/NonCovariantGenerics.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/Performs.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/SelfBounding.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/SimpleQueue.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/SimplerPets.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/generics/ThrowGenericException.java" />
+        <option value="$USER_HOME$/Desktop/TIJ4-code/polymorphism/Shapes.java" />
         <option value="$PROJECT_DIR$/src/lessons/chapter5/Test.java" />
       </list>
     </option>
@@ -120,13 +291,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -152,7 +316,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -235,6 +398,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -279,24 +443,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhilosophyOfJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhilosophyOfJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lessons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -304,12 +450,13 @@
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/TIJ4-code.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/TIJ4-code" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="two.files.diff.last.used.folder" value="$USER_HOME$/Desktop/TIJ4-code" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -873,7 +1020,8 @@
       <workItem from="1501784559594" duration="3637000" />
       <workItem from="1501957227339" duration="5032000" />
       <workItem from="1502280635502" duration="4296000" />
-      <workItem from="1502356917664" duration="10275000" />
+      <workItem from="1502356917664" duration="10414000" />
+      <workItem from="1502382497332" duration="3013000" />
     </task>
     <task id="LOCAL-00001" summary="create new repository and project for level up lessons">
       <created>1500964066454</created>
@@ -886,41 +1034,42 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58651000" />
+    <option name="totallyTimeSpent" value="61803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -952,369 +1101,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/CastingNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/RoundingNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/AllOps.java" />
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter2/Overflow.java" />
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter2/StringTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Rock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <element signature="e#112#113#0" expanded="false" />
-            <element signature="e#159#160#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/StringNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/StringTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" column="59" lean-forward="false" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Overloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/OverloadingOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/PrimitiveOverloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2975">
-          <caret line="233" column="23" lean-forward="false" selection-start-line="233" selection-start-column="23" selection-end-line="233" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Short.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/COnstructorTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Leaf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="54" lean-forward="false" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/ThisTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Flower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="35" column="56" lean-forward="false" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#733#734#0" expanded="false" />
-            <element signature="e#798#799#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/ConstructorOverloadingTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="e#149#150#0" expanded="false" />
-            <element signature="e#186#187#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-            <element signature="e#242#243#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/WebBank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/WebBankFinalize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/TankTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/InitialValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Bowl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#227#228#0" expanded="false" />
-            <element signature="e#272#273#0" expanded="false" />
-            <element signature="e#299#300#0" expanded="false" />
-            <element signature="e#342#343#0" expanded="false" />
-            <element signature="e#491#492#0" expanded="false" />
-            <element signature="e#534#535#0" expanded="false" />
-            <element signature="e#760#761#0" expanded="false" />
-            <element signature="e#803#804#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Cup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Mug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="42" column="35" lean-forward="false" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArraysOfPrimitives.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArrayNew.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArrayClassObj.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/ArrayInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/DInamicArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/ArrayTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/StringConstructorTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="13" column="65" lean-forward="false" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/VarArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/NewVarArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/OptionalTrailingArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/VarArgType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="60" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/AutoboxingVarargs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/OverloadingVarargs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/OverloadingVarargs2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tasks/chapter5/StringArgumentTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1322,7 +1112,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1330,7 +1119,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1338,10 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1349,7 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1357,7 +1140,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="61" lean-forward="false" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1365,6 +1147,354 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/access/cookie2/Cookie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/access/ImportedMyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/access/Pie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/access/Cake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/access/dessert/Cookie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/access/mypackage/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/access/ChocolateChip2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/access/ChocolateChip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/access/Dinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/access/Cake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/access/IceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/generics/CovariantReturnTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/annotations/InterfaceExtractorProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/typeinfo/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/concurrency/CarBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/concurrency/BankTellerSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/concurrency/HorseRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/arrays/IceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/annotations/UseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/annotations/PasswordUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/annotations/UseCaseTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/containers/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/containers/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/containers/TestParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/containers/ListPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/containers/SetPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#267#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/containers/MapPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#300#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/enumerated/SpaceShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/exceptions/CleanupIdiom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/ClassTypeCapture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/CovariantArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/InstantiateGenericType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/LimitsOfInference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/Performs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/DogsAndRobots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/SelfBounding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/SimpleQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/SimplerPets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/ThrowGenericException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/NonCovariantGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/polymorphism/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/generics/Apply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-542">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TIJ4-code/annotations/AtUnitComposition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1372,7 +1502,7 @@
     <entry file="file://$PROJECT_DIR$/src/lessons/chapter5/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1429,12 +1559,23 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>PhilosophyOfJava</last-edited>
+          <last-edited>TIJ4-code</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1442,7 +1583,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>TIJ4-code1</last-edited>
+          <last-edited>TIJ4-code (2)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

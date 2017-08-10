@@ -7,5 +7,33 @@
       <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/io" />
       <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/io/xfiles" />
     </SOURCES>
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/access" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/annotations" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/arrays" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/bangbean" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/concurrency" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/containers" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/control" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/enumerated" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/exceptions" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/frogbean" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/generics" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/gui" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/holding" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/initialization" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/innerclasses" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/interfaces" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/io" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/net" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/object" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/operators" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/polymorphism" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/reusing" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/strings" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/swt" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/typeinfo" />
+      <root url="jar://$PROJECT_DIR$/TIJ4-code.jar!/xml" />
+    </excluded>
   </library>
 </component>
