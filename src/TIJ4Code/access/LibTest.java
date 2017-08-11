@@ -2,7 +2,6 @@ package TIJ4Code.access;//: access/LibTest.java
 // Uses the library.
 import TIJ4Code.net.mindview.simple.List;
 import TIJ4Code.net.mindview.simple.Vector;
-import net.mindview.simple.*;
 
 public class LibTest {
   public static void main(String[] args) {

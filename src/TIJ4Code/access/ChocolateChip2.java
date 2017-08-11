@@ -1,6 +1,5 @@
 package TIJ4Code.access;//: access/ChocolateChip2.java
 import TIJ4Code.access.cookie2.Cookie;
-import access.cookie2.*;
 
 public class ChocolateChip2 extends Cookie {
   public ChocolateChip2() {
